@@ -1,0 +1,7 @@
+.gwt/
+.settings/
+target
+.project/
+.classpath/
+node-modules/
+.metadata/
